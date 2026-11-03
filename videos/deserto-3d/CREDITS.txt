@@ -1,0 +1,9 @@
+Deserto 3D — versão estilizada dinâmica
+Roteiro e narração original: fornecidos pelo usuário. Voz do arquivo ElevenLabs enviado, preservada; responsabilidade do usuário pelo uso do material fornecido.
+Modelagem tridimensional, personagens, cenário, rig, animação, câmeras e iluminação: originais, criados por código especificamente para este vídeo.
+Trilha e efeitos: composição original sintetizada com NumPy/SciPy e geradores de som do toolkit; sem samples de terceiros.
+Fontes: Lilita One e Fredoka, SIL Open Font License 1.1; licença integral em ../../core/fonts/OFL.md.
+Three.js r170: MIT, https://github.com/mrdoob/three.js .
+Lemo-Opuscar toolkit: MIT, https://github.com/lemomo-ai/lemo-opuscar .
+Renderizado com Chromium/Playwright, codificado com FFmpeg. Sem imagens, modelos 3D, filmagens ou músicas comerciais de terceiros.
+Legendas usam o roteiro enviado e pausas da gravação: tempos aproximados por frase, sem reconhecimento de fala por palavra.
