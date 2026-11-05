@@ -1,0 +1,5 @@
+Teste HQ/anime — 7,7 segundos
+Arte original gerada com OpenAI Image Generation para este projeto. Personagem original; referência enviada usada apenas como direção visual geral.
+Montagem, câmera, poeira, refração de calor e vapor: código original. Não é animação corporal completa.
+Roteiro/narração: material fornecido pelo usuário. Trilha/foley: mix original do vídeo anterior, sintetizado para o projeto.
+Fontes Lilita One (SIL OFL 1.1). Ferramentas Lemo-Opuscar (MIT), Playwright, Chromium, FFmpeg.
